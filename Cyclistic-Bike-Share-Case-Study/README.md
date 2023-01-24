@@ -20,7 +20,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 To see the interactive graphs created in plotly, you can reproduce the notebook in the following link:
 
-[Cyclistic Case Notebok](http://https://nbviewer.org/github/DavProgramer/Data-Analytics-Portfolio/blob/main/Cyclistic-Bike-Share-Case-Study/Cyclistic-bike-share-to-graph-end-report.ipynb "Cyclistic case notebok")
+[Cyclistic Case Notebok](https://nbviewer.org/github/DavProgramer/Data-Analytics-Portfolio/blob/main/Cyclistic-Bike-Share-Case-Study/Cyclistic-bike-share-to-graph-end-report.ipynb "Cyclistic case notebok")
 
 As a part of the work, I want to share my professional takeaways from this project:
 
